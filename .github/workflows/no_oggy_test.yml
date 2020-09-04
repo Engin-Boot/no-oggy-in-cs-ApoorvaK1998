@@ -20,4 +20,4 @@ jobs:
            .\MSBuild.exe $Env:GITHUB_WORKSPACE\no_oggy.csproj
       - name: Verify string-removal from list
         run: D:\a\
-no-oggy-in-cs-ApoorvaK1998\no_oggy.exe
+no-oggy-in-cs-ApoorvaK1998\no-oggy-in-cs-ApoorvaK1998\no_oggy.exe
